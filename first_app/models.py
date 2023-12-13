@@ -21,3 +21,8 @@ class PracticeModel(models.Model):
     time_field = models.TimeField()
     small_integer_field = models.SmallIntegerField()
     slug_field = models.SlugField()
+
+
+
+
+
